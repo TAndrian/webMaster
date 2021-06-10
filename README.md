@@ -4,7 +4,6 @@
 
  Lien du git : https://gitlab.istic.univ-rennes1.fr/16013644/pr.tp.web.git
 
-[[_TOC_]]
 
 ## Partie 1 : Chat anonyme
 
